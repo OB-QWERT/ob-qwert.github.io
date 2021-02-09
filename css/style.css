@@ -234,3 +234,101 @@ footer .container p{
 .socialLink:hover{
 	color: #747373;
 }
+
+
+
+/* Category Section */
+
+#categoryMenu h3 {
+
+	color: #000000;
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 1;
+	margin-top: 0;
+	margin-bottom: 5px;
+	padding: 0;
+}
+
+
+#categoryMenu p {
+	color: #747373;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	margin: 0px;
+	margin-bottom: 20px;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+}
+
+
+#categoryMenu .card-item{
+	position: absolute;
+	bottom: -2%;
+	left: 10%;
+}
+
+
+#categoryMenu .card-img span {
+	background: #747373;
+	padding: 6px;
+	color: #fff;
+	font-size: 12px;
+	border-radius: 4px;
+	transform: translate(-50%,-50%);
+}
+
+#categoryMenu .sidebar-top{
+	border-bottom: 2px solid #747373;
+}
+
+#categoryMenu .sidebar-top h3{
+	color: #747373;
+
+}
+
+#categoryMenu .t{
+	background:  #747373 !important;
+	border: none;
+}
+
+#categoryMenu .list-group-item:hover{
+	background:  #747373 !important;
+	color: #fff;
+
+}
+
+
+#categoryMenu .form-control:hover{
+	outline: 1px solid #747373;
+	border: 1px solid #747373;
+}
+
+#categoryMenu .page-link{
+	color: #747373;
+	font-size: 20px;
+}
+
+
+
+#categoryMenu .page-link:hover{
+	background-color: #747373 !important;
+	color: #fff;
+}
+
+
+
+/* Blog Section */
+
+#blogMenu .galleryText{
+	color: #747373;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 1.5;
+	margin: 0px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	padding: 0;
+	font-family: 'Raleway', sans-serif;
+} 
